@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanuck-mk2
-- 👀 I’m interested in ... IT, cybersecurity, app and web development
-- 🌱 I’m currently learning ...Java and Python
+- 👀 I’m interested in ...web development, front/back end, fullstack
+- 🌱 I’m currently learning ...Javacript eventually to Python, C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
