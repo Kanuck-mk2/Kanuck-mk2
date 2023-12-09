@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kanuck-mk2
-- 👀 I’m interested in ...web development, front/back end, fullstack
+- 👀 I’m interested in ...web development, front/back end, fullstack, Machine Learning, AI
 - 🌱 I’m currently learning ...Javacript eventually to Python, C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
